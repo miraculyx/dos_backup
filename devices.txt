@@ -1,0 +1,6 @@
+#IP Address,Hostname, Model
+#
+10.1.1.1,SW1,Mellanox SN2010M
+10.1.1.2,SW2,Mellanox SN2010M
+10.1.1.3,SW3,Mellanox SN2010M
+10.1.1.4,SW4,Mellanox SN2010M
